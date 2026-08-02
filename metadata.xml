@@ -6,7 +6,6 @@
     <description>
 [b]Compatible with Rep / Rep+[/b]
 
-
 This is an unofficial visual enhancement of Unlock Reminder.
 
 This mod is based on Unlock Reminder by modelixxx and uses completion mark sprites from Cooler Completion Marks [REP+] by Eden. The original functionality, code, and assets belong to their respective creators. This version focuses on improving the visuals while preserving the original features.
@@ -16,7 +15,6 @@ The goal of this edit is simple: keep the original functionality while making th
 [h2]Features[/h2]
 [list]
 [*] Improved completion icons.
-[*] Cleaner and more readable unlock sheets.
 [*] Better overall visual consistency.
 [*] Preserves the original functionality of Unlock Reminder.
 [/list]
@@ -37,6 +35,6 @@ The goal of this edit is simple: keep the original functionality while making th
 
 This mod would not exist without the work of the original creators. Full credit goes to them for their code, assets, and ideas.
     </description>
-    <version>1.0</version>
+    <version>1.1</version>
     <visibility>Private</visibility>
 </metadata>
